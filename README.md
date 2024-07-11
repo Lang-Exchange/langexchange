@@ -12,10 +12,9 @@ Features:
 
 # Develop team
 
-- Dinh Nhu Tan
 - Nguyen Van Thuong
-- Tran Luong Vu
-
+- Nguyen Tan Xanh
+  
 # Run project
 
 Clone project
